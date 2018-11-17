@@ -1,0 +1,52 @@
+.navbar-brand
+{
+	font-size:20px;
+	font-weight:bold;
+	font-family:geneva;
+	}
+	.navbar-inverse .navbar-brand {
+    color: white;
+ }
+
+	.jumbotron
+	{
+		background-image: url(img/j.jpg);
+		color:gray;
+		background-attachment:fixed;
+		min-height:500px;
+		margin-top:20px;
+		margin-bottom:8px;
+	}
+	#footer{
+		background-color:#333745;
+	}
+	#box1{
+		background-color:#9c9f84;
+		color:white;
+		
+	}
+	h2{
+	   font-size:30px;
+		margin:20px;
+		padding:40px;
+	}
+	.img-circle{
+		padding:20px;
+	}
+	h3{
+		color:grey;
+		font-family:Times New Roman;
+		padding:20px;
+	}
+	h4{
+		color:grey;
+		
+	}
+	h4{
+		color:grey;
+	}
+	.f{
+		color:grey;
+		font-size:20px;
+	}
+	}
